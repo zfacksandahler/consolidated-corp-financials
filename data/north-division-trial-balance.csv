@@ -1,0 +1,8 @@
+Account,Description,Debit,Credit
+1000,Cash,100000,0
+1201,Intercompany Receivables,4500,0
+2000,Accounts Payable,0,20000
+2101,Intercompany Payables,0,5000
+3000,Equity,0,80000
+4000,Revenue,0,50000
+5000,Expenses,20000,0
